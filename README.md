@@ -42,6 +42,10 @@ McSwift favourite things
 
 - <a href="https://progit.bootcss.com/">Pro Git 中文版</a>
 
+## Guid | 指南
+
+- <a href="https://developer.apple.com/design/human-interface-guidelines/">Human Interface Guidelines</a>: 苹果人机界面设计指南
+
 ## Awesomes
 
 - <a href="https://panjiachen.github.io/awesome-bookmarks/">awesome-bookmarks</a>: A curated list of awesome things 
