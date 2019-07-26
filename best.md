@@ -2,6 +2,7 @@
 
 其实更适合作为前端入门掌握指南
 
+- <a href="http://www.idangero.us/swiper">Swiper</a>: Most modern mobile touch slider with hardware accelerated transitions
 - jquery
 - date-fns
 - axios
