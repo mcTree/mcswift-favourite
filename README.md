@@ -1,6 +1,24 @@
 # McSwift Favourite
 McSwift favourite things
+<!-- TOC -->
 
+- [McSwift Favourite](#mcswift-favourite)
+  - [Package | 包](#package--%e5%8c%85)
+    - [For Browser & Node.js](#for-browser--nodejs)
+    - [For Browser](#for-browser)
+    - [For Node.js](#for-nodejs)
+  - [Development Resource | 开发资源](#development-resource--%e5%bc%80%e5%8f%91%e8%b5%84%e6%ba%90)
+    - [Public CDN | 公共CDN](#public-cdn--%e5%85%ac%e5%85%b1cdn)
+  - [Chinese Docs | 中文文档](#chinese-docs--%e4%b8%ad%e6%96%87%e6%96%87%e6%a1%a3)
+    - [Officials Docs | 官方文档](#officials-docs--%e5%ae%98%e6%96%b9%e6%96%87%e6%a1%a3)
+    - [| 第三方文档](#%e7%ac%ac%e4%b8%89%e6%96%b9%e6%96%87%e6%a1%a3)
+  - [Books && Passage | 书籍 && 文章](#books--passage--%e4%b9%a6%e7%b1%8d--%e6%96%87%e7%ab%a0)
+  - [Guid | 指南](#guid--%e6%8c%87%e5%8d%97)
+  - [Awesomes](#awesomes)
+  - [Deserve Attention | 值得关注](#deserve-attention--%e5%80%bc%e5%be%97%e5%85%b3%e6%b3%a8)
+    - [Project | 项目](#project--%e9%a1%b9%e7%9b%ae)
+
+<!-- /TOC -->
 ## Package | 包
 
 ### For Browser & Node.js

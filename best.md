@@ -8,3 +8,4 @@
 - axios
 - Lodash
 - <a href="https://element.eleme.cn">Element UI</a>: Element，一套为开发者、设计师和产品经理准备的基于 Vue 2.0 的桌面端组件库
+- <a href="https://github.com/validatorjs/validator.js">validatorjs</a>:A library of string validators and sanitizers.
