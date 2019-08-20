@@ -12,7 +12,7 @@ McSwift favourite things
   - [Chinese Docs | 中文文档](#chinese-docs--%e4%b8%ad%e6%96%87%e6%96%87%e6%a1%a3)
     - [Officials Docs | 官方文档](#officials-docs--%e5%ae%98%e6%96%b9%e6%96%87%e6%a1%a3)
     - [| 第三方文档](#%e7%ac%ac%e4%b8%89%e6%96%b9%e6%96%87%e6%a1%a3)
-  - [Books && Passage | 书籍 && 文章](#books--passage--%e4%b9%a6%e7%b1%8d--%e6%96%87%e7%ab%a0)
+  - [Books & Passage | 书籍 & 文章](#books--passage--%e4%b9%a6%e7%b1%8d--%e6%96%87%e7%ab%a0)
   - [Guid | 指南](#guid--%e6%8c%87%e5%8d%97)
   - [Awesomes](#awesomes)
   - [Deserve Attention | 值得关注](#deserve-attention--%e5%80%bc%e5%be%97%e5%85%b3%e6%b3%a8)
@@ -56,8 +56,9 @@ McSwift favourite things
 
 - <a href="https://www.jquery123.com/">jquery</a>: 一个优秀的jquery第三方中文文档
 
-## Books && Passage | 书籍 && 文章
+## Books & Passage | 书籍 & 文章
 
+- <a href="https://github.com/ruanyf/free-books">《科技爱好者周刊》收集的免费书籍汇总。</a>
 - <a href="https://progit.bootcss.com/">Pro Git 中文版</a>
 - <a href="http://es6.ruanyifeng.com/">ECMAScript 6 入门 ( 作者: 阮一峰 ) </a>: 《ECMAScript 6 入门》是一本开源的 JavaScript 语言教程，全面介绍 ECMAScript 6 新引入的语法特性。
 
