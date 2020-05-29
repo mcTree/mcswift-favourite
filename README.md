@@ -5,21 +5,23 @@ McSwift favourite things
 <!-- TOC -->
 
 - [McSwift Favourite](#mcswift-favourite)
-  - [Package | 包](#package--%e5%8c%85)
+  - [Package | 包](#package--包)
     - [For Browser & Node.js](#for-browser--nodejs)
     - [For Browser](#for-browser)
     - [For Node.js](#for-nodejs)
-  - [Development Resource | 开发资源](#development-resource--%e5%bc%80%e5%8f%91%e8%b5%84%e6%ba%90)
-    - [Public CDN | 公共 CDN](#public-cdn--%e5%85%ac%e5%85%b1-cdn)
-  - [Chinese Docs | 中文文档](#chinese-docs--%e4%b8%ad%e6%96%87%e6%96%87%e6%a1%a3)
-    - [Officials Docs | 官方文档](#officials-docs--%e5%ae%98%e6%96%b9%e6%96%87%e6%a1%a3)
-    - [| 第三方文档](#%e7%ac%ac%e4%b8%89%e6%96%b9%e6%96%87%e6%a1%a3)
-  - [Books & Passage | 书籍 & 文章](#books--passage--%e4%b9%a6%e7%b1%8d--%e6%96%87%e7%ab%a0)
-  - [Guid | 指南](#guid--%e6%8c%87%e5%8d%97)
-  - [| 教程](#%e6%95%99%e7%a8%8b)
+  - [Development Resource | 开发资源](#development-resource--开发资源)
+    - [Public CDN | 公共 CDN](#public-cdn--公共-cdn)
+  - [镜像站](#镜像站)
+    - [阿里镜像](#阿里镜像)
+  - [Chinese Docs | 中文文档](#chinese-docs--中文文档)
+    - [Officials Docs | 官方文档](#officials-docs--官方文档)
+    - [| 第三方文档](#-第三方文档)
+  - [Books & Passage | 书籍 & 文章](#books--passage--书籍--文章)
+  - [Guid | 指南](#guid--指南)
+  - [Tutorials | 教程](#tutorials--教程)
   - [Awesomes](#awesomes)
-  - [Deserve Attention | 值得关注](#deserve-attention--%e5%80%bc%e5%be%97%e5%85%b3%e6%b3%a8)
-    - [Project | 项目](#project--%e9%a1%b9%e7%9b%ae)
+  - [Deserve Attention | 值得关注](#deserve-attention--值得关注)
+    - [Project | 项目](#project--项目)
 
 <!-- /TOC -->
 
@@ -78,7 +80,7 @@ McSwift favourite things
 
 - <a href="https://developer.apple.com/design/human-interface-guidelines/">Human Interface Guidelines</a>: 苹果人机界面设计指南
 
-## | 教程
+## Tutorials | 教程
 
 - <a href="https://github.com/ziishaned/learn-regex">Learn regex the easy way</a>: 一个正则教程
 
