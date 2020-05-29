@@ -15,7 +15,7 @@ McSwift favourite things
     - [阿里镜像](#阿里镜像)
   - [Chinese Docs | 中文文档](#chinese-docs--中文文档)
     - [Officials Docs | 官方文档](#officials-docs--官方文档)
-    - [| 第三方文档](#-第三方文档)
+    - [Third Party Docs | 第三方文档](#third-party-docs--第三方文档)
   - [Books & Passage | 书籍 & 文章](#books--passage--书籍--文章)
   - [Guid | 指南](#guid--指南)
   - [Tutorials | 教程](#tutorials--教程)
@@ -46,8 +46,8 @@ McSwift favourite things
 
 ### Public CDN | 公共 CDN
 
-- <a href="http://staticfile.org/">Staticfile CDN</a>: 我们的目标是提供这样一个仓库，让它尽可能全面收录优秀的开源库，并免费为之提供 CDN 加速服务，使之有更好的访问速度和稳定的环境。同时，我们也提供开源库源接入的入口，让所有人都可以提交开源库，包括 JavaScript、CSS、图片和 swf 等静态文件。
-- <a href="https://unpkg.com/">UNPKG</a>: unpkg is a fast, global content delivery network for everything on npm.
+- <a href="http://staticfile.org/">Staticfile CDN</a>: "我们的目标是提供这样一个仓库，让它尽可能全面收录优秀的开源库，并免费为之提供 CDN 加速服务，使之有更好的访问速度和稳定的环境。同时，我们也提供开源库源接入的入口，让所有人都可以提交开源库，包括 JavaScript、CSS、图片和 swf 等静态文件。"
+- <a href="https://unpkg.com/">UNPKG</a>: "unpkg is a fast, global content delivery network for everything on npm."
 
 ## 镜像站
 
@@ -66,7 +66,7 @@ McSwift favourite things
 - <a href="https://zh-hans.reactjs.org/">React 官方中文文档</a>
 - <a href="https://yarnpkg.com/zh-Hans/">Yarn 官方中文文档</a>
 
-### | 第三方文档
+### Third Party Docs | 第三方文档
 
 - <a href="https://www.jquery123.com/">jquery</a>: 一个优秀的 jquery 第三方中文文档
 
