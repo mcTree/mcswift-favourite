@@ -72,7 +72,7 @@ McSwift favourite things
 
 ## Books & Passage | 书籍 & 文章
 
-- <a href="https://github.com/ruanyf/free-books">《科技爱好者周刊》收集的免费书籍汇总。</a>
+- <a href="https://github.com/ruanyf/free-books">阮一峰 《科技爱好者周刊》收集的免费书籍汇总。</a>
 - <a href="https://progit.bootcss.com/">Pro Git 中文版</a>
 - <a href="http://es6.ruanyifeng.com/">ECMAScript 6 入门 ( 作者: 阮一峰 ) </a>: 《ECMAScript 6 入门》是一本开源的 JavaScript 语言教程，全面介绍 ECMAScript 6 新引入的语法特性。
 
@@ -93,3 +93,22 @@ McSwift favourite things
 ### Project | 项目
 
 - <a href="https://github.com/sentialx/multrin">Multrin</a>: Organize multiple apps in tabs! | 一个桌面应用集合项目。
+
+## Apps
+
+### Cross Platform
+
+- <a href="https://github.com/PowerShell/PowerShell" target="_blank">Powershell Core</a>
+
+### Windows
+
+- <a href="https://www.microsoft.com/en-us/bing/bing-wallpaper" target="_balnk">Bing Wallpaper</a>
+
+
+## 字体
+
+Fira Code
+
+## 考试资源
+
+- <a href="http://www.neea.edu.cn/" target="_blank">教育部考试中心
