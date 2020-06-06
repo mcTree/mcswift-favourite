@@ -22,6 +22,11 @@ McSwift favourite things
   - [Awesomes](#awesomes)
   - [Deserve Attention | 值得关注](#deserve-attention--值得关注)
     - [Project | 项目](#project--项目)
+  - [Apps](#apps)
+    - [Cross Platform](#cross-platform)
+    - [Windows](#windows)
+  - [字体](#字体)
+  - [考试资源](#考试资源)
 
 <!-- /TOC -->
 
@@ -52,9 +57,11 @@ McSwift favourite things
 ## 镜像站
 
 ### 阿里镜像
+
 <a href="https://developer.aliyun.com/mirror/">阿里镜像首页</a>
+
 - Node.js 镜像 : <a href="http://npm.taobao.org/mirrors/node">http://npm.taobao.org/mirrors/node</a>
-- npm 淘宝源 :  <a href="https://registry.npm.taobao.org">https://registry.npm.taobao.org</a>
+- npm 淘宝源 : <a href="https://registry.npm.taobao.org">https://registry.npm.taobao.org</a>
 - ChromeDriver 镜像 : <a href="http://npm.taobao.org/mirrors/chromedriver">http://npm.taobao.org/mirrors/chromedriver</a>
 
 ## Chinese Docs | 中文文档
@@ -104,11 +111,10 @@ McSwift favourite things
 
 - <a href="https://www.microsoft.com/en-us/bing/bing-wallpaper" target="_balnk">Bing Wallpaper</a>
 
-
 ## 字体
 
 Fira Code
 
 ## 考试资源
 
-- <a href="http://www.neea.edu.cn/" target="_blank">教育部考试中心
+- <a href="http://www.neea.edu.cn/" target="_blank">教育部考试中心</a>
