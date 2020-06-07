@@ -81,6 +81,7 @@ McSwift favourite things
 
 - <a href="https://github.com/ruanyf/free-books">阮一峰 《科技爱好者周刊》收集的免费书籍汇总。</a>
 - <a href="https://progit.bootcss.com/">Pro Git 中文版</a>
+- <a href="https://git-scm.com/book/zh/v2">Pro Git 官方中文</a>
 - <a href="http://es6.ruanyifeng.com/">ECMAScript 6 入门 ( 作者: 阮一峰 ) </a>: 《ECMAScript 6 入门》是一本开源的 JavaScript 语言教程，全面介绍 ECMAScript 6 新引入的语法特性。
 
 ## Guid | 指南
