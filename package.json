@@ -1,0 +1,15 @@
+{
+  "name": "mcswift-favourite",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/AshenBird/mcswift-favourite.git",
+  "author": "mcswift",
+  "license": "MIT",  "scripts": {
+    "docs:dev": "vuepress dev docs",
+    "docs:build": "vuepress build docs",
+    "start": "http-server docs/.vuepress/dist -p 9090"
+  },
+  "devDependencies": {
+    "vuepress": "^1.7.1"
+  }
+}
